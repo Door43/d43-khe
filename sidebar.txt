@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[khe:home|Door43 (khe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-khe|d43-khe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-khe/archive/master.zip|d43-khe.zip]]
+
+**Recent Changes**
+{{changes>ns = khe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/khe|Ethnologue data]]
+
